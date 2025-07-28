@@ -2,3 +2,16 @@ body{
     background: lightskyblue;
     color: white;
 }
+    header{
+        border-bottom: solid 2px rgb(135,206,250);
+        padding: 20px;
+        font-size: 32px;
+        color: rgb(135,206,250);
+    }
+    section{
+        background: rgb(255,255,255);
+        padding: 80px;
+        font-size: 80px;
+        display: flex;
+        justify-content: center;
+    }
