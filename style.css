@@ -1,19 +1,17 @@
-body {
-    background: lightskyblue;
-    color: white;
+body{
+    background: rgb(11, 220, 243);
+    color: rgb(3, 3, 3);
 }
-
 header {
-    border-bottom: solid 2px rgb(135, 206, 250);
+    border-bottom: solid 2px rgb(10, 10, 10);
     padding: 20px;
     font-size: 32px;
-    color: rgb(135, 206, 250);
+    color: rgb(3, 3, 3);
 }
-
 section {
-    background: rgb(255, 255, 255);
-    padding: 80px;
-    font-size: 80px;
+    background: rgb(11, 220, 243);
+    padding-bottom: 80px;
+    padding-top: 80px;
     display: flex;
     justify-content: center;
 }
@@ -21,11 +19,9 @@ section {
 .chamada-texto {
     margin-right: 5%;
 }
-
 img {
-    height: 200px;
+  height: 200px;
 }
-
 .categoria-videos {
     display: flex;
     overflow-x: auto;
